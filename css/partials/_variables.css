@@ -1,0 +1,15 @@
+
+
+html, body{
+    margin: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+/* CSS variabes*/
+
+:root{
+    --primary-colour1: #4458dc;
+    --primary-colour2: #854fee;
+}
